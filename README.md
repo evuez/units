@@ -2,12 +2,15 @@
 
 ## A list of conversion tables for common *and* uncommon units.
 
+If you like watching MythBusters and are not used to the Imperial system, this can help.
+
+===
+
 I included an NBA basketball court (length is used), an NBA basketball (weight) and Brad Pitt because it helps having something you can relate to just to get an idea of the height / weight / volume of something.
 
 Brad Pitt seemed like an average person -- ~1.80 m and ~78 kg (c.f. Google) -- and since he played in quite a lot of movies, you can easily use *it* (I'm talking about my new unit) to measure stuff from these movies.
 
-Note for Mythbusters fans: Brad Pitt fits between Adam Savage's 1.82 m and Jamie Hyneman's 1.78 m.
-
+Note for MythBusters fans: Brad Pitt fits between Adam Savage's 1.82 m and Jamie Hyneman's 1.78 m.
 
 **Every number are *truncated to 2 decimal places*; the goal is not to have precision but instead to have an idea of what x units represents.**
 
